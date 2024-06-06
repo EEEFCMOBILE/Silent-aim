@@ -20,7 +20,6 @@ local Inset, Mouse, Client, Vector2New, Cam =
 local Targetting
 
 local FOV = Drawing.new("Circle")
-FOV.Transparency = 0.1
 FOV.Thickness = 0.2
 FOV.Color = Color3.fromRGB(54, 57, 241)
 FOV.Filled = false
